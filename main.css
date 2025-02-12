@@ -1,0 +1,17 @@
+body{background-color: #191919;}
+.contents .kully,
+.contents .olive,
+.contents .zigzag{
+    position:relative;
+}
+.contents .banner{
+    width:805px;
+    height: 805px;
+    position: absolute;
+}
+.contents .kully .banner,
+.contents .olive .banner,
+.contents .zigzag .banner{
+    top: 136px;
+    left: 860px;
+}
