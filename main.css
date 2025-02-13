@@ -1,4 +1,7 @@
-body{background-color: #191919;}
+body{
+    background-color: #191919;
+    width:1920px;
+}
 .contents .kully,
 .contents .olive,
 .contents .zigzag{
