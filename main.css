@@ -18,6 +18,12 @@ body{
     top: 136px;
     left: 860px;
 }
+section .health{
+    background-color: #170f04;
+}
+section .health img{
+    margin-top:50px;
+}
 section .soma{
     background-color: white;
 }
