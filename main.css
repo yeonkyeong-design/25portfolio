@@ -24,9 +24,6 @@ body{
 section .health{
     background-color: #170f04;
 }
-section .health img:nth-child(3){
-    margin-bottom:100px;
-}
 section .soma{
     background-color: white;
 }
