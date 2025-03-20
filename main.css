@@ -5,6 +5,9 @@ body{
     background-color: #191919;
     width:1920px;
 }
+img {
+  vertical-align: bottom;
+}
 .contents .kully,
 .contents .olive,
 .contents .zigzag{
